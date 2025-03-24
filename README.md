@@ -1,4 +1,4 @@
-[Visit gamer Hub](https://gamerhubweb.netlify.app/)
+[Visit Gamer Hub](https://gamerhubweb.netlify.app/)
 <br>
 
 # Desktop Screen
